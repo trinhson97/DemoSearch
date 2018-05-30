@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DemoSearch/TableViewController.swift"
+            timestampString = "549165154.489984"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "TableViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DemoSearch/TableViewController.swift"
+            timestampString = "549165154.490103"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "TableViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DemoSearch/TableViewController.swift"
+            timestampString = "549165154.490154"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "TableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DemoSearch.TableViewController.string.getter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "DemoSearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/son/Desktop/DemoSearch/DemoSearch/TableViewController.swift"
+                  timestampString = "549164915.65207"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "109">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DemoSearch.TableViewController.string.setter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "DemoSearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/son/Desktop/DemoSearch/DemoSearch/TableViewController.swift"
+                  timestampString = "549164915.653459"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DemoSearch.TableViewController.init(style: __C.UITableViewStyle) -&gt; DemoSearch.TableViewController"
+                  moduleName = "DemoSearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/son/Desktop/DemoSearch/DemoSearch/TableViewController.swift"
+                  timestampString = "549164915.654561"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "178">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DemoSearch.TableViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; DemoSearch.TableViewController"
+                  moduleName = "DemoSearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/son/Desktop/DemoSearch/DemoSearch/TableViewController.swift"
+                  timestampString = "549164915.655628"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "211">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DemoSearch.TableViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;DemoSearch.TableViewController&gt;"
+                  moduleName = "DemoSearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/son/Desktop/DemoSearch/DemoSearch/TableViewController.swift"
+                  timestampString = "549164915.656706"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "146">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
